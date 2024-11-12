@@ -14,7 +14,7 @@ Este proyecto realiza pruebas de API CRUD (Crear, Leer, Actualizar, Eliminar) pa
 
 1. **Clona el repositorio**:
 
-   git clone https://github.com/tu\_usuario/tu\_proyecto\_crud\_api.git
+   git clone https://github.com/p-amela/ApiCode.git
 
 1. **Instala las dependencias**:
    1. Si usas **Gradle**, ejecuta:
